@@ -26,3 +26,9 @@ an example snippet is seen in the code thus
 - after_script
 
 you will learn more as the lectures proceeds
+
+
+### stages 
+
+Stages are used to manage several section of our deployments and helps us to run similar tasks together. for example we can have a test stage in which we run several tests, like unit test, integration tests, e.t.c
+
